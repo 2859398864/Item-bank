@@ -5,7 +5,7 @@ There are no more than 50 test cases.
 
 Each case only contains a positivse integer n in a line. 
 
-1¡Ün¡Ü1018 
+1 <= n <= 10 ^ 18
  
  
 For each test case, 
