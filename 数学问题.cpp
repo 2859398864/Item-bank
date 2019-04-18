@@ -1,15 +1,16 @@
-/*You are given a positive integer n, 
-please count how many positive integers k satisfy k^k¡Ün.
+/*
+You are given a positive integer n, 
+please count how many positive integers k satisfy k^kÂ¡Ãœn.
 There are no more than 50 test cases. 
 
 Each case only contains a positivse integer n in a line. 
 
-1¡Ün¡Ü1018 
+1Â¡ÃœnÂ¡Ãœ1018 
  
  
 For each test case, 
 output an integer indicates the number of 
-positive integers k satisfy k^k ¡Ün in a line.
+positive integers k satisfy k^k Â¡Ãœn in a line.
 
 input 
 1
